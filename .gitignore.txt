@@ -1,0 +1,17 @@
+# Archivos innecesarios
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.gz
+.DS_Store
+*.env
+
+# WordPress core y archivos no requeridos
+/wp-admin/
+/wp-includes/
+/wp-config.php
+/license.txt
+/readme.html
+index.php
+hello.php
