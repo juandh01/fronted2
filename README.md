@@ -28,6 +28,15 @@ Abre http://localhost/fronted2
 ---
 ## 🧠 Autor
 Juan Barrientos – @juandh01
+
+---
+## Capturas de pantalla
+![image](https://github.com/user-attachments/assets/c0646994-58c2-4fe8-8807-216801fec702)
+![image](https://github.com/user-attachments/assets/f44c3573-b0b7-4697-b2ae-049c687a144c)
+![image](https://github.com/user-attachments/assets/835a9825-9fbc-46e8-89f7-4ce0a4830b10)
+![image](https://github.com/user-attachments/assets/f4ba210d-6898-4340-9ee6-a647ce0c874a)
+![image](https://github.com/user-attachments/assets/4bdc03e2-4227-416c-9041-52a89122adf0)
+
 ---
 ## 🗂️ Estructura del repositorio
 
@@ -42,4 +51,5 @@ fronted2/
 │       └── ...otros
 ├── .gitignore
 └── README.md
+
 
